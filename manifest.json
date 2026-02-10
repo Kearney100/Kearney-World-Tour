@@ -1,0 +1,15 @@
+{
+  "short_name": "KWT",
+  "name": "Kearney World Tour",
+  "icons": [
+    {
+      "src": "https://drive.google.com/thumbnail?id=1UFvwvFG7jysbUZBYLqzWSMjrWywKW4UF&sz=w500",
+      "type": "image/png",
+      "sizes": "500x500"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1b5e20",
+  "theme_color": "#1b5e20"
+}
